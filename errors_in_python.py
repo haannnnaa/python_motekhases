@@ -1,6 +1,8 @@
 import math
 #errors in python
-
+# we have 2 types of errors in python :
+# 1 syntax errors
+# 2 logica errors (all the errors that are not related to syntax error)
 #1# type error -> using a wrong type of value 
 
 # print(len(123))
